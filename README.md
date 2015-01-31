@@ -1,7 +1,7 @@
 yii2-angular-seed
 =============
 
-An online courses website based on [Yii2](https://github.com/yiisoft/yii2) Advanced Application.
+yii2-angular-seed based on [Yii2](https://github.com/yiisoft/yii2) Advanced Application.
 
 The frontend app based on [angular-requirejs-seed](https://github.com/tnajdek/angular-requirejs-seed).
 
