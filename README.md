@@ -153,3 +153,5 @@ security.limit_extensions = .php .html
 
 See [here](https://bugs.php.net/bug.php?id=60763)
 
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/HarishMahajan)
